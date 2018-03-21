@@ -31,5 +31,6 @@ There are two different classes and the principal object:
 - Count the score
 - Better the code (this was my first time using Scala!)
 - Make a better design 
+- Create the executable file
 
 Enjoy !
